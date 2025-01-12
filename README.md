@@ -36,7 +36,7 @@ Setup Instructions:
 
         VITE_API_KEY=your_api_key_here
 
-  - You can get an API key from Financial Modeling Prep
+  - You can get an API key from [Financial Modeling Prep]([url](https://site.financialmodelingprep.com/developer/docs#income-statements-financial-statements))
 
 
 - Start the development server
